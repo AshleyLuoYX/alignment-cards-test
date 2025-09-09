@@ -1,4 +1,4 @@
-xport const cards = [
+export const cards = [
   {
     "name": "Behavioral Alignment",
     "definition": "Ensuring that an AI system behaves as the human would want it to behave.",
